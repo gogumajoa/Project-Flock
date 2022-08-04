@@ -1,7 +1,7 @@
-## :green_book: Flock : Webtoon Recommender  
-- __웹툰을 평가하고 추천해주는 서비스입니다.__
+# :green_book: Flock : Webtoon Recommender  
+- __웹툰을 평가하고 추천해주는 서비스입니다. :green_book:__
 
-### :family: Team Member
+## :family: Team Member
 <br />
 
 |심진섭|남형우|강세진|최 민|최정윤|
